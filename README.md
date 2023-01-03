@@ -1,4 +1,4 @@
-# Inch-To-Cm
+# Inches to Centimetres
 
 ## hw
 
